@@ -2,7 +2,7 @@ const products = [
   {
     id: 'closed-end-wire-connector',
     name: 'CLOSED END WIRE CONNECTOR',
-    image: 'images/ClosedendWireConnectors.jpg',
+    image: 'ClosedendWireConnectors.jpg',
     description: 'A compact closed-end connector designed for reliable insulation and secure jointing in electrical and automotive applications.',
     specs: [
       'Available variants: CE1X, CE2X and other standard closed-end types',
@@ -14,7 +14,7 @@ const products = [
   {
     id: 'tyco-terminal',
     name: 'Tyco Terminal',
-    image: 'images/TYCOTerminal.jpg',
+    image: 'TYCOTerminal.jpg',
     description: 'Tyco terminals built for precision connection and strong mechanical retention in wiring harness assemblies.',
     specs: [
       'Available series: 4.8F, 6.4F and compatible standard terminal sizes',
@@ -26,7 +26,7 @@ const products = [
   {
     id: 'housing-cover-vhr',
     name: 'Housing Cover VHR',
-    image: 'images/product1b.png',
+    image: 'product1b.png',
     description: 'A durable housing cover designed to protect and organize connector assemblies while maintaining a secure fit.',
     specs: [
       'Protective housing for multi-pin connector systems',
@@ -37,7 +37,7 @@ const products = [
   {
     id: 'terminal-cover',
     name: 'Terminal Cover',
-    image: 'images/TerminalCover.webp',
+    image: 'TerminalCover.webp',
     description: 'A snap-fit terminal cover that adds insulation, protection, and a neat finish to connected wire terminals.',
     specs: [
       'Available in 4.8F, 6.4F and matching terminal cover sizes',
