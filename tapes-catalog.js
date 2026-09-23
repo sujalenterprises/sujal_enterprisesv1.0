@@ -2,7 +2,7 @@ const tapeProducts = [
   {
     id: 'polyester-tape',
     name: 'Polyester Tape',
-    imageSet: ['images/TechnovaTapes.webp'],
+    imageSet: ['TechnovaTapes.webp'],
     description: 'Technova polyester tape is available in multiple colors and different sizes, including 18mm and 42mm, with color options customizable as per customer demand.',
     specs: [
       'Technova brand polyester tape for industrial and electrical use',
@@ -14,7 +14,7 @@ const tapeProducts = [
   {
     id: 'masking-tape',
     name: 'Masking Tape',
-    imageSet: ['images/Maskingtape.jpg'],
+    imageSet: ['Maskingtape.jpg'],
     description: 'Masking tape is available in different sizes as per demand, along with paper tape options suitable for clean and practical industrial use.',
     specs: [
       'Available in different sizes as per customer demand',
@@ -26,7 +26,7 @@ const tapeProducts = [
   {
     id: 'bopp-tape',
     name: 'BOPP Tape',
-    imageSet: ['images/bopp-brown-tape.webp', 'images/TransaparentBopp.jpg'],
+    imageSet: ['bopp-brown-tape.webp', 'TransaparentBopp.jpg'],
     description: 'BOPP tape combines strong adhesion with professional packaging and sealing performance for industrial and commercial applications.',
     specs: [
       'Available in brown and transparent variants',
