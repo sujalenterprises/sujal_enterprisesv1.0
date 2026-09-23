@@ -2,7 +2,7 @@ const hstProducts = [
   {
     id: 'hst',
     name: 'HST',
-    imageSet: ['images/hstwoer.jpg', 'images/woerhst.webp'],
+    imageSet: ['hstwoer.jpg', 'woerhst.webp'],
     description: 'HST products are designed for thermal insulation, mechanical protection and dependable performance in industrial wire and cable applications.',
     specs: [
       'Available in multiple HST product variants for protection and insulation',
@@ -14,7 +14,7 @@ const hstProducts = [
   {
     id: 'fg-silicone',
     name: 'FG Silicone',
-    imageSet: ['images/FGSilicone.webp'],
+    imageSet: ['FGSilicone.webp'],
     description: 'FG Silicone is available in round form and different sizes, including 6mm length options, for precise sealing, insulation and flexible protection needs.',
     specs: [
       'Available in different sizes to match installation requirements',
@@ -26,7 +26,7 @@ const hstProducts = [
   {
     id: 'pe-tube',
     name: 'PE Tube',
-    imageSet: ['images/petube.png'],
+    imageSet: ['petube.png'],
     description: 'PE tubes provide flexible, lightweight and durable protection for wires, cables and bundled assemblies in industrial and electrical installations.',
     specs: [
       'Excellent flexibility and abrasion resistance',
