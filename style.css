@@ -976,6 +976,7 @@ header nav ul { display:flex; gap:22px; }
   }
 }
 
+
 @media (max-width: 700px) {
   .product-detail .product-gallery figure { flex: 1 1 100%; }
   .product-detail .product-gallery img { height: 240px; }
